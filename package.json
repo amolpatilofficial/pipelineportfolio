@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.5.0",
+    "global-tunnel-ng": "^2.7.1",
+    "tunnel": "^0.0.6",
+    "yarm": "^0.4.0",
+    "yarn": "^1.22.17"
+  }
+}
